@@ -30,6 +30,7 @@ Godot 3 uses Bullet, Godot 4 uses bullet and an owen Physics engine. It might be
 
 ## What's missing?
 - an importer for URDF and SDF for Gazebo models (https://app.ignitionrobotics.org/fuel/models) and .world files
+  - A urdf one is [lunco-urdf](https://github.com/LunCoSim/lunco-urdf)
   - you can import models into Blender using [Phobos](https://github.com/dfki-ric/phobos) and then export to OBJ or FBX and import in Gazebo but a direct import would be nice
   - see also: [Loading model files at runtime](https://github.com/godotengine/godot/issues/24768)
 - an importer for MARS
